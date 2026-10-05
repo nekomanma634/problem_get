@@ -1,0 +1,5 @@
+[UdonMaxBudget] day=1 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 11->11 udons 26->27
+[UdonMaxBudget] day=2 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 11->11 udons 20->22
+[UdonMaxBudget] day=3 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0

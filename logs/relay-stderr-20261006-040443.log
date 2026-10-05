@@ -1,0 +1,6 @@
+[UdonMaxBudget] day=1 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[Spread] short tomorrow: tomorrow min spread=-1 baseline=13
+[Early] day=2 types=13 udons=30/30
+[UdonMaxBudget] day=3 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[UdonMaxBudget] day=4 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[Early] day=5 types=13 udons=30/30

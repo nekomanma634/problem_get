@@ -1,0 +1,17 @@
+[UdonMaxBudget] day=1 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[UdonMaxBudget] day=2 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 13->13 udons 22->23
+[UdonMaxBudget] day=3 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 11->11 udons 12->14
+[UdonMaxBudget] day=4 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 13->13 udons 35->36
+[UdonMaxBudget] day=5 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 13->13 udons 35->36
+[UdonMaxBudget] day=6 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[UdonMaxBudget] day=7 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 13->13 udons 24->28
+[UdonMaxBudget] day=8 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 13->13 udons 27->29
+[UdonMaxBudget] day=9 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 13->13 udons 35->36
+[UdonMaxBudget] day=10 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0

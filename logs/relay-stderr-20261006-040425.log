@@ -1,0 +1,8 @@
+[Early] day=1 types=13 udons=31/31
+[UdonMaxBudget] day=2 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 13->13 udons 22->23
+[Early] day=3 types=13 udons=31/31
+[UdonMaxBudget] day=4 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[UdonMaxBudget] day=5 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[Early] day=6 types=13 udons=31/31
+[Early] day=7 types=13 udons=31/31

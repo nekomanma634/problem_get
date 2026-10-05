@@ -1,0 +1,16 @@
+[UdonMaxBudget] day=1 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[UdonMaxBudget] day=2 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 14->14 udons 35->36
+[Early] day=2 types=14 udons=36/36
+[UdonMaxBudget] day=3 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 14->14 udons 26->28
+[EndShift] day=3 tomorrow=13->13/14 shifted=0 (time)
+[UdonMaxBudget] day=4 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 12->12 udons 13->15
+[Spread] short tomorrow: tomorrow min spread=14 baseline=10 selected
+[UdonMaxBudget] day=5 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[UdonMaxBudget] day=6 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 11->11 udons 11->14
+[UdonMaxBudget] day=7 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 10->10 udons 10->12
+[Early] day=8 types=14 udons=36/36

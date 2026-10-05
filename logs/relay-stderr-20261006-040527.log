@@ -1,0 +1,4 @@
+[Early] day=1 types=10 udons=31/31
+[UdonMaxBudget] day=2 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[Early] day=3 types=10 udons=31/31
+[Early] day=4 types=10 udons=31/31
