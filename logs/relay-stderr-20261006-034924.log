@@ -1,0 +1,16 @@
+[UdonMaxBudget] day=1 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 12->12 udons 27->28
+[Early] day=2 types=12 udons=38/38
+[Early] day=3 types=12 udons=38/38
+[Early] day=4 types=12 udons=38/38
+[UdonMaxBudget] day=5 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 12->12 udons 23->24
+[EndShift] day=5 tomorrow=11->11/12 shifted=0 (time)
+[UdonMaxBudget] day=6 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[UdonMaxBudget] day=7 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 12->12 udons 23->24
+[UdonMaxBudget] day=8 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 12->12 udons 34->36
+[UdonMaxBudget] day=9 T_ms=2000 scale=1 cap_ms=20000 budget_ms=0
+[SpotSet] types 12->12 udons 37->38
+[Early] day=9 types=12 udons=38/38
